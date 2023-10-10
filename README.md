@@ -14,7 +14,7 @@ Lover of Technology and Coding 💓
 
 ## Languages and Tools:
 [![GabsFns GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsFns&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact)](https://github.com/GabsFns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact)]
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>

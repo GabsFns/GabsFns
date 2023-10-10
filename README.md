@@ -13,7 +13,7 @@ Lover of Technology and Coding 💓
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabsFns)](https://github.com/GabsFns)
 
 ## Languages and Tools:
-[![GabsFns GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsFns&theme=midnight-purple_icons=true)
+[![GabsFns GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsFns&theme=omni_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact)](https://github.com/GabsFns/github-readme-stats)
 
 

@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @GabsFns
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- ## Hello World, Eu sou Gabri!! <img src=https://github.com/GabsFns width="30">
- 
-… Fullstack Developer 👩‍💻
+<h1>OLÁ COMPANHEIROS!!</h1>
+
+- 👀 Iniciante com sólidos fundamentos e habilidades intermediárias na área de tecnologia, estou empenhado em aprimorar minhas capacidades a cada dia. Tenho paixão por Ciência da Computação e estou ansioso para começar minha jornada acadêmica nesse campo. Atualmente, estou trabalhando em uma variedade de projetos desafiadores para expandir minha experiência. Estou aberto a colaborações e entusiasmado para aprender com outros membros da comunidade. Vamos embarcar juntos nesta jornada de aprendizado e desenvolvimento tecnológico!...
+
+- 💞️ Entusiasta da tecnologia e futuro estudante de Ciência da Computação. Comprometido em aprimorar minhas habilidades diariamente, mergulhando de cabeça no vasto mundo da programação e desenvolvimento de software. Atualmente, estou trabalhando em diversos projetos que desafiam meu conhecimento e me permitem explorar novas tecnologias. Minha jornada no mundo da tecnologia é uma busca constante por aprendizado e inovação, e estou ansioso para contribuir para a comunidade de código aberto. Vamos criar um futuro mais tecnológico juntos! ...
+  
+- 📫 Atualmente, estou estudando e praticando Java, HTML, CSS, JavaScript, MySQL, PHP, modelagem de dados, redes e muitos outros aspectos do desenvolvimento de software. Estou ansioso para iniciar minha jornada acadêmica em Ciência da Computação e, enquanto isso, estou trabalhando em uma variedade de projetos desafiadores para expandir minha experiência. Estou aberto a colaborações e entusiasmado para aprender com outros membros da comunidade....
+- 
+ ## Hello World, Eu sou Gabs!! 
+ <img src=https://github.com/GabsFns width="60">
+ <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="70">
+… Progression Fullstack Developer 👩‍💻
  
 Lover of Technology and Coding 💓
  

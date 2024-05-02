@@ -9,7 +9,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h2>GRAFICO</h2>
 
-
+![Gabsfns GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabsfns&show_icons=true&theme=transparent)
 
 <h2>LINGUAGENS</h2>
 

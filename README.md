@@ -13,6 +13,8 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsfns&layout=donut)](https://github.com/Gabsfns/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Gabsfns/github-readme-stats)
+
 <h2>LINGUAGENS</h2>
 
 [![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]

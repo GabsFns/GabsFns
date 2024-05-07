@@ -22,7 +22,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Gabsfns/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns)](https://github.com/Gabsfns/github-readme-stats)
 
 <h2>Tecnologias que eu uso Diariamente</h2>
 

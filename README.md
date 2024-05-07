@@ -22,7 +22,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 
 
-<figure><embed src="https://wakatime.com/share/@Gabsfns/8b97d783-7957-47e6-9c3f-d45c26dd95b3.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@Gabsfns/8b97d783-7957-47e6-9c3f-d45c26dd95b3.svg"></embed>
 
 <h2>Tecnologias que eu uso Diariamente</h2>
 

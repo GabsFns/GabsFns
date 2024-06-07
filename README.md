@@ -32,7 +32,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <h2>Tecnologias que eu uso Diariamente</h2>
 <p display= "flex" align="center">
 
-<img src ="https://skillicons.dev/icons?i=all"/>
+<img src ="https://skillicons.dev/icons?i=js,html,css"/>
 
 <img src = "https://skillicons.dev/icons?i=all"/>
 

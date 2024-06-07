@@ -18,6 +18,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 </a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns)](https://github.com/GabsFns/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns"/>
 
 
 </p>

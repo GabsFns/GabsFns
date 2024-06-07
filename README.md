@@ -14,7 +14,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 </a>
 <a href="https://github.com/Gabsfns/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabsfns&layout=compact&langs_count=8&card_width=320" />
-  [![Harlok's WakaTime stats (Last Year)](https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns)](https://github.com/GabsFns/github-readme-stats)
+ <img [![Harlok's WakaTime stats (Last Year)](https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns)](https://github.com/GabsFns/github-readme-stats) />
 </a>
 
 

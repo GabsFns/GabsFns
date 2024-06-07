@@ -30,7 +30,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <embed src="https://wakatime.com/share/@Gabsfns/8b97d783-7957-47e6-9c3f-d45c26dd95b3.svg"></embed>
 
 <h2>Tecnologias que eu uso Diariamente</h2>
-
+<p display="flex" align="center">
 [![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 
 [![Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
@@ -44,5 +44,5 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 [![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
 [![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-
+</p>
 <h2>PROJETOS</h2>

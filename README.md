@@ -28,7 +28,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 
 <embed src="https://wakatime.com/share/@Gabsfns/8b97d783-7957-47e6-9c3f-d45c26dd95b3.svg"></embed>
-
+<p align="center">
 <h2>Tecnologias que eu uso Diariamente</h2>
 <p display= "flex" align="center">
 <h3>Ferramentas e Frameworks que mais utilizo no FrontEnd</h3>
@@ -41,6 +41,5 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <img src = "https://skillicons.dev/icons?i=mongodb, mysql"/>
 <h3>Ferramentas de Versionamento</h3>
 <img src = "https://skillicons.dev/icons?i=git"/>
-
 </p>
 <h2>PROJETOS</h2>

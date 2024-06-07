@@ -16,30 +16,25 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabsfns&layout=compact&langs_count=8&card_width=320" />
 
 </a>
-
 <a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns"/>
 </a>
-
 </p>
 
 
 
-
-
-<embed src="https://wakatime.com/share/@Gabsfns/8b97d783-7957-47e6-9c3f-d45c26dd95b3.svg"></embed>
-<p align="center">
 <h2>Tecnologias que eu uso Diariamente</h2>
-<p display= "flex" align="center">
-<h3>Ferramentas e Frameworks que mais utilizo no FrontEnd</h3>
-<img src ="https://skillicons.dev/icons?i=js,html,css,angular,react,vite,sass,bootstrap"/>
-<h3>Ferramentas e Frameworks que mais utilizo no Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,jquery,php,laravel"/>
-<h3>IDEs e Editores de Texto</h3>
-<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
-<h3>Databases</h3>
-<img src = "https://skillicons.dev/icons?i=mongodb, mysql"/>
-<h3>Ferramentas de Versionamento</h3>
-<img src = "https://skillicons.dev/icons?i=git"/>
+<p align="center">
+  <h3>Ferramentas e Frameworks FrontEnd</h3>
+  <img src ="https://skillicons.dev/icons?i=js,html,css,angular,react,vite,sass,bootstrap"/>
+  <h3>Ferramentas e Frameworks Backend</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,jquery,php,laravel"/>
+  <h3>IDEs e Editores de Texto</h3>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
+  <h3>Databases</h3>
+  <img src = "https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <h3>Ferramentas de Versionamento</h3>
+  <img src = "https://skillicons.dev/icons?i=git"/>
 </p>
+
 <h2>PROJETOS</h2>

@@ -31,22 +31,16 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h2>Tecnologias que eu uso Diariamente</h2>
 <p display= "flex" align="center">
-
-<img src ="https://skillicons.dev/icons?i=js,html,css"/>
-
-<img src = "https://skillicons.dev/icons?i=all"/>
-
-<img src="https://skillicons.dev/icons?i=all"/>
-
-<img src="https://skillicons.dev/icons?i=all"/>
-
-<img src = "https://skillicons.dev/icons?i=all"/>
-
-<img src = "https://skillicons.dev/icons?i=all"/>
-
-<img src = "https://skillicons.dev/icons?i=all"/>
-
-<img src = "https://skillicons.dev/icons?i=all"/>
+<h3>Ferramentas e Frameworks que mais utilizo no FrontEnd</h3>
+<img src ="https://skillicons.dev/icons?i=js,html,css,angular,react,vite,sass,bootstrap"/>
+<h3>Ferramentas e Frameworks que mais utilizo no Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,jquery,php,laravel"/>
+<h3>IDEs e Editores de Texto</h3>
+<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
+<h3>Databases</h3>
+<img src = "https://skillicons.dev/icons?i=mongodb, mysql"/>
+<h3>Ferramentas de Versionamento</h3>
+<img src = "https://skillicons.dev/icons?i=git"/>
 
 </p>
 <h2>PROJETOS</h2>

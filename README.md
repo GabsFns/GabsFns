@@ -17,7 +17,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 </a>
 <a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabsfns"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GabsFns"/>
 </a>
 
 

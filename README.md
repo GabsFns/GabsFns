@@ -6,10 +6,10 @@
 Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros.
 ## <h2>CERTIFICAÇÕES E FORMAÇÕES</h2>
 ### Formações >
-Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido
+📕🎖️Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido
 
 ### Certificados >
-Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
+📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
 ## <h2>GRAFICO</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

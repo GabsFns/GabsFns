@@ -15,7 +15,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GabsFns&theme=radical)
+![Visitas no perfil](https://visitor-badge.laobi.icu/badge?page_id=GabsFns.GabsFns)
 
 
 ## <h2>Tecnologias que eu uso Diariamente</h2>

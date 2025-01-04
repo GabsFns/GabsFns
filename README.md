@@ -30,7 +30,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
   <h3>Ferramentas e Frameworks FrontEnd</h3>
   <img src ="https://skillicons.dev/icons?i=js,html,css,angular,react,vite,sass,bootstrap"/>
   <h3>Ferramentas e Frameworks Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,jquery,php,laravel"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,jquery,php"/>
   <h3>IDEs e Editores de Texto</h3>
   <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
   <h3>Databases</h3>

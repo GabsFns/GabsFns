@@ -17,6 +17,8 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=radical)](https://github.com/GabsFns)
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabsFns&repo=nome-do-repositorio&theme=radical)
+
 
 ## <h2>Tecnologias que eu uso Diariamente</h2>
 <p align="center">

@@ -10,14 +10,19 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 ### Certificados >
 📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
-## <h2>GRAFICO</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabsFns&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=radical)
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsFns&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=radical)](https://github.com/GabsFns)
+### 📈 Gráfico de Atividade
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=github" alt="Activity Graph"/>
+</div>
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabsFns&repo=nome-do-repositorio&theme=radical)
+
 
 
 ## <h2>Tecnologias que eu uso Diariamente</h2>

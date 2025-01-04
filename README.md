@@ -11,7 +11,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 ### Certificados >
 📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
 ## <h2>GRAFICO</h2>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabsFns&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabsfns" />
 </a>

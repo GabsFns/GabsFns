@@ -63,7 +63,10 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 ## 2. PetTopia Ong Veterinaria
 
-[Link do Repositorio](https://github.com/GabsFns/WebFernandes)
+[Link do Repositorio Java Desktop](https://github.com/GabsFns/WebFernandes)
+[Link do Repositorio Site Web](https://github.com/GabsFns/WebFernandes)
+[Link do Repositorio Servidor](https://github.com/GabsFns/WebFernandes)
+[Link do Repositorio Banco de Dados](https://github.com/GabsFns/WebFernandes)
 
 [Link do Deploy](https://fernandesportfolio.netlify.app/)
 

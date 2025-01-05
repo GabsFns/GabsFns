@@ -28,22 +28,25 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 ## <h2>Tecnologias que eu uso Diariamente</h2>
 <p align="center">
   <h3>Ferramentas e Frameworks FrontEnd</h3>
-  <img src ="https://skillicons.dev/icons?i=js,html,css,angular,react,vite,sass,bootstrap"/>
+  <img src ="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap"/>
   <h3>Ferramentas e Frameworks Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,jquery,php"/>
   <h3>IDEs e Editores de Texto</h3>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   <h3>Databases</h3>
-  <img src = "https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src = "https://skillicons.dev/icons?i=mysql,postgresql"/>
   <h3>Ferramentas de Versionamento</h3>
   <img src = "https://skillicons.dev/icons?i=git"/>
+  <h3>Ferramentas de Virtualização</h3>
+  <img src = "https://skillicons.dev/icons?i=docker"/>
 </p>
 
-# <h2>PROJETOS</h2>
 
-<br>
+# 📂 Projetos em Destaque
 
-## Portfolio Web
+
+## 1. Portfolio Web
+
 [Link do Repositorio](https://github.com/GabsFns/WebFernandes)
 
 [Link do Deploy](https://fernandesportfolio.netlify.app/)
@@ -60,7 +63,22 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <br>
 <br>
 
-## SISTEMA DE VAREJO
+## 2. NeuralLearn
+Uma plataforma de cursos online para programadores e cientistas de dados.
+[Link do Repositorio](https://github.com/GabsFns/WebFernandes)
+
+[Link do Deploy](https://fernandesportfolio.netlify.app/)
+
+<h4>Tecnologias Utilizadas</h4>
+  <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,gmail,git"/>
+<h4>DOCUMENTAÇÃO</h4>
+
+<h4>DIAGRAMA</h4>
+
+<br>
+
+
+## 3. SISTEMA DE VAREJO
 [Link do Repositorio](https://github.com/GabsFns/SistemaVarejo-JAVA)
 
 [Link do Deploy]()
@@ -75,7 +93,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <br>
 <br>
 
-## LOGIN E CADASTRO COM REACT - NODE
+## 4. LOGIN E CADASTRO COM REACT - NODE
 [Link do Repositorio](https://github.com/GabsFns/Login-Cadastro-React)
 
 [Link do Deploy](https://testelogcad.netlify.app/)

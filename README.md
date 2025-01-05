@@ -53,9 +53,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h4>Tecnologias Utilizadas</h4>
   <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,gmail,git"/>
-<h4>DOCUMENTAÇÃO</h4>
 
-<h4>DIAGRAMA</h4>
 
 
 <br>
@@ -72,9 +70,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h4>Tecnologias Utilizadas</h4>
   <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,gmail,git"/>
-<h4>DOCUMENTAÇÃO</h4>
 
-<h4>DIAGRAMA</h4>
 
 <br>
 
@@ -86,9 +82,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h4>Tecnologias Utilizadas</h4>
   <img width="120" src="https://skillicons.dev/icons?i=java,postgresql,git"/>
-<h4>DOCUMENTAÇÃO</h4>
 
-<h4>DIAGRAMA</h4>
 
 
 <br>
@@ -101,9 +95,7 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 
 <h4>Tecnologias Utilizadas</h4>
   <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css,git"/>
-<h4>DOCUMENTAÇÃO</h4>
 
-<h4>DIAGRAMA</h4>
 
 <br>
 <br>

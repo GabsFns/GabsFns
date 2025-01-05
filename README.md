@@ -58,13 +58,11 @@ Sou um apaixonado desenvolvedor full stack em ascensão, dedicado a transformar 
 <h4>DIAGRAMA</h4>
 
 
-
-
 <br>
 <br>
 
-## 2. NeuralLearn
-Uma plataforma de cursos online para programadores e cientistas de dados.
+## 2. PetTopia Ong Veterinaria
+
 [Link do Repositorio](https://github.com/GabsFns/WebFernandes)
 
 [Link do Deploy](https://fernandesportfolio.netlify.app/)

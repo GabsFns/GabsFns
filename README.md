@@ -28,7 +28,7 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 ## <h2>Tecnologias que eu uso Diariamente</h2>
 <p align="center">
   <h3>Ferramentas e Frameworks FrontEnd</h3>
-  <img src ="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap, react"/>
+  <img src ="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap, reactNative"/>
   <h3>Ferramentas e Frameworks Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,jquery,php"/>
   <h3>IDEs e Editores de Texto</h3>

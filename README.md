@@ -9,7 +9,7 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 📕🎖️Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido
 
 ### Certificados >
-📕🎖️Curso Liderança e Empreendedorismo - UVA | 2025/02 - 2025/05 Concluido
+📕🎖️Curso Liderança e Empreendedorismo - UVA | 2025/02 - 2025/05 Concluido <br>
 📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
 
 ## 📊 Estatísticas do GitHub

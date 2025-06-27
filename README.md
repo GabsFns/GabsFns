@@ -5,12 +5,15 @@
 Dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros.
 ## <h2>CERTIFICAÇÕES E FORMAÇÕES</h2>
 ### Formações >
-📕🎖️Engnheiro de Software (Bacharelado)- UVA | 2025/03 - 1゜Periodo em Andamento <br>
-📕🎖️Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido
+📕🎖️Engnheiro de Software (Bacharelado)- UVA | 2025/03 - 2゜Periodo em Andamento <br>
+📕🎖️Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido <br>
 
 ### Certificados >
 📕🎖️Curso Liderança e Empreendedorismo - UVA | 2025/02 - 2025/05 Concluido <br>
-📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido
+📕🎖️Curso Profissionalizante de Informatica - DATAMASTER NOVA IGUAÇU | 2019/02 - 2021/01 Concluido <br>
+📕🎖️Fundamentos do Python 1 & 2 (PCAP) | (Cisco Networking Academy) – Inicio: 07/2024 – previsão de conclusão: 07/2025 <br>
+📕🎖️Programação Fundamentals Java (Oracle Academy) – Concluído 06/2025 <br>
+📕🎖️Oracle Java Foundations (Oracle Academy) – Concluído 06/2025 <br>
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
@@ -60,43 +63,3 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 <br>
 <br>
 
-## 2. PetTopia Ong Veterinaria
-
-[Link do Repositorio Java Desktop](https://github.com/GabsFns/WebFernandes)<br>
-[Link do Repositorio Site Web](https://github.com/GabsFns/WebFernandes)<br>
-[Link do Repositorio Servidor](https://github.com/GabsFns/WebFernandes)<br>
-[Link do Repositorio Banco de Dados](https://github.com/GabsFns/WebFernandes)<br>
-
-[Link do Deploy](https://fernandesportfolio.netlify.app/)
-
-<h4>Tecnologias Utilizadas</h4>
-  <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,gmail,git"/>
-
-
-<br>
-
-
-## 3. SISTEMA DE VAREJO
-[Link do Repositorio](https://github.com/GabsFns/SistemaVarejo-JAVA)
-
-[Link do Deploy]()
-
-<h4>Tecnologias Utilizadas</h4>
-  <img width="120" src="https://skillicons.dev/icons?i=java,postgresql,git"/>
-
-
-
-<br>
-<br>
-
-## 4. LOGIN E CADASTRO COM REACT - NODE
-[Link do Repositorio](https://github.com/GabsFns/Login-Cadastro-React)
-
-[Link do Deploy](https://testelogcad.netlify.app/)
-
-<h4>Tecnologias Utilizadas</h4>
-  <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css,git"/>
-
-
-<br>
-<br>

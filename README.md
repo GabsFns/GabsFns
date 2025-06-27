@@ -27,28 +27,6 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 </div>
 
 
-
-
-## <h2>Tecnologias que eu uso Diariamente</h2>
-<p align="center">
-  <h3>Ferramentas e Frameworks FrontEnd</h3>
-  <img src ="https://skillicons.dev/icons?i=js,html,css,react,sass,bootstrap, reactNative"/>
-  <h3>Ferramentas e Frameworks Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,jquery,php"/>
-  <h3>IDEs e Editores de Texto</h3>
-  <img src="https://skillicons.dev/icons?i=idea,vscode"/>
-  <h3>Databases</h3>
-  <img src = "https://skillicons.dev/icons?i=mysql,postgresql"/>
-  <h3>Ferramentas de Versionamento</h3>
-  <img src = "https://skillicons.dev/icons?i=git"/>
-  <h3>Ferramentas de Virtualização</h3>
-  <img src = "https://skillicons.dev/icons?i=docker"/>
-</p>
-
-
-# 📂 Projetos em Destaque
-
-
 ## 1. Portfolio Web
 
 [Link do Repositorio](https://github.com/GabsFns/WebFernandes)

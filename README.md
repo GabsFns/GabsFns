@@ -60,7 +60,12 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=monokai" alt="Activity Graph"/>
 </div>
 
-### 📈 Gráfico de Atividade
+## 📦 Principais Projetórios
+
+[![ApiFinanceiro](https://github.com/GabsFns/ApiFananceiro/blob/main/preview.png?raw=true)](https://github.com/GabsFns/ApiFananceiro)
+
+
+
 
 
 

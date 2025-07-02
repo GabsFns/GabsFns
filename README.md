@@ -1,9 +1,11 @@
-# <h1>Gabriel Fernandes!</h1>
+# Gabriel Fernandes!
 **`Engenheiro de Software`**<br>
 Dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros. <br>
 
 ![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-## <h2>CERTIFICAÇÕES E FORMAÇÕES</h2>
+## TECNOLOGIAS
+<i class="devicon-react-original-wordmark colored" width="30px"></i>
+## CERTIFICAÇÕES E FORMAÇÕES
 ### Formações >
 📕🎖️Engnheiro de Software (Bacharelado)- UVA | 2025/03 - 2゜Periodo em Andamento <br>
 📕🎖️Tecnico de Informatica (Desenvolvimento de Sistema) - FAETEC | 2023/03 - 2024/11 Concluido <br>

@@ -46,14 +46,26 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsFns&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsFns&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=monokai&hide_border=true" alt="Linguagens mais usadas"/>
+
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GabsFns&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 </div>
 
 ### 📈 Gráfico de Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=github" alt="Activity Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=monokai" alt="Activity Graph"/>
 </div>
+
+### 📈 Gráfico de Atividade
+
 
 
 ## 1. Portfolio Web

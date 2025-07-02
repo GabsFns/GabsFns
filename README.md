@@ -77,11 +77,4 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 
 [Link do Deploy](https://fernandesportfolio.netlify.app/)
 
-<h4>Tecnologias Utilizadas</h4>
-  <img width="200" src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,gmail,git"/>
-
-
-
-<br>
-<br>
 

@@ -1,4 +1,5 @@
 # Gabriel Fernandes!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabsfns&label=Profile%20views&color=0e75b6&style=flat" alt="gabsfns" /> </p>
 **`Engenheiro de Software`**<br>
 Dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros. <br>
 
@@ -61,8 +62,9 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 </div>
 
 ## 📦 Principais Projetórios
-
-[![ApiFinanceiro](https://github.com/GabsFns/ApiFananceiro/blob/main/preview.png?raw=true)](https://github.com/GabsFns/ApiFananceiro)
+[![ApiFinanceiro](https://img.shields.io/badge/Api%20Financeiro-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/ApiFananceiro)
+[![PrevisorExoPlanetas](https://img.shields.io/badge/Previsor%20ExoPlanetas-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/exoplanetas_modelo)
+[![PlataformaONG](https://img.shields.io/badge/Plataforma%20ONG-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/pettopia-ongveterinaria)
 
 
 

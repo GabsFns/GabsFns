@@ -1,8 +1,7 @@
 # <h1>Gabriel Fernandes!</h1>
 **`Engenheiro de Software`**
+Dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros. <br>
 ![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-Dedicado a transformar conceitos em códigos e criar experiências digitais memoráveis. Com habilidades sólidas em front-end e back-end, estou constantemente buscando aprender e aprimorar minhas habilidades para enfrentar os desafios tecnológicos com criatividade e inovação. Entusiasta da colaboração e do trabalho em equipe, estou sempre pronto para contribuir e aprender com os outros.
 ## <h2>CERTIFICAÇÕES E FORMAÇÕES</h2>
 ### Formações >
 📕🎖️Engnheiro de Software (Bacharelado)- UVA | 2025/03 - 2゜Periodo em Andamento <br>

@@ -50,10 +50,6 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=monokai&hide_border=true" alt="Linguagens mais usadas"/>
 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GabsFns&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 

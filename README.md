@@ -55,9 +55,9 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFns&layout=compact&theme=monokai&hide_border=true" alt="Linguagens mais usadas"/>
 
-## 📈 Gráfico de Contribuições
-[![GabsFns github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabsFns&theme=react-dark&hide_border=true)](https://github.com/GabsFns/github-readme-activity-graph)
-
+- Opened PR #15 in NomeDoRepo
+- Opened Issue #8 in OutroRepo
+- Commented on Issue #12 in MaisUmRepo
 
 </div>
 

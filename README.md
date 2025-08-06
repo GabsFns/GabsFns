@@ -71,7 +71,7 @@ Dedicado a transformar conceitos em códigos e criar experiências digitais memo
 [![ApiFinanceiro](https://img.shields.io/badge/Api%20Financeiro-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/ApiFananceiro)
 [![PrevisorExoPlanetas](https://img.shields.io/badge/Previsor%20ExoPlanetas-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/exoplanetas_modelo)
 [![PlataformaONG](https://img.shields.io/badge/Plataforma%20ONG-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/pettopia-ongveterinaria)
-
+[![AnaliseCientificaAsteroides](https://img.shields.io/badge/Plataforma%20ONG-181717?style=for-the-badge&logo=github)](https://github.com/GabsFns/AstroLab_python)
 
 
 
